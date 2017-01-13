@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+  <picker mode="date" bindchange="bindTimeChange">
+    <view class="picker">
+    </view>
+  </picker>
+</view>
